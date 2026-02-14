@@ -1,1 +1,0 @@
-# Scrimba-Fullstack-Build_a_meme_app
